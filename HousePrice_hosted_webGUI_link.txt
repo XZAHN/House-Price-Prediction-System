@@ -1,0 +1,6 @@
+Name: Zion
+Matric Number: [Your Matric Number]
+Machine Learning Algorithm Used: Random Forest Regressor
+Model persistence method used: Joblib
+Live URL of the hosted application: [Insert Deployment URL Here]
+GitHub repository link: [Insert GitHub Repository URL Here]
