@@ -1,6 +1,6 @@
-Name: Zion
-Matric Number: [Your Matric Number]
+Name: Zion Oladokun
+Matric Number: 23CG034122
 Machine Learning Algorithm Used: Random Forest Regressor
 Model persistence method used: Joblib
-Live URL of the hosted application: [Insert Deployment URL Here]
-GitHub repository link: [Insert GitHub Repository URL Here]
+Live URL of the hosted application: https://house-price-prediction-system-4ywb.onrender.com/
+GitHub repository link: https://github.com/XZAHN/House-Price-Prediction-System
